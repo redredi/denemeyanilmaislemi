@@ -1,0 +1,2 @@
+# denemeyanilmaislemi
+Deneme Yanılma
